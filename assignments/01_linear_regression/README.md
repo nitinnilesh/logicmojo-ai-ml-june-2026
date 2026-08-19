@@ -5,9 +5,9 @@ This folder contains a participant-facing assignment notebook for multiple linea
 Files:
 
 - `medical_insurance_linear_regression_assignment.ipynb`: assignment notebook
-- `data/insurance.csv`: dataset
+- `medical_insurance_linear_regression_solution.ipynb`: solved notebook
 
-The notebook also includes auto-download code in case the dataset is missing.
+The assignment notebook includes auto-download code for the dataset.
 
 Participants should submit:
 
