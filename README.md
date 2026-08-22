@@ -31,6 +31,7 @@ logicmojo-ai-ml-june-2026/
 | 2 | Linear Regression Multivariate | 09th Aug | `lecture_materials/01_linear_regression/` |
 | 3 | Polynomial Regression | 15th Aug | `lecture_materials/02_polynomial_regression/` |
 | 4 | Logistic Regression | 16th Aug | `lecture_materials/03_logistic_regression/` |
+| 5 | Logistic Regression Imbalanced Data | 22nd Aug | `lecture_materials/03_logistic_regression/` |
 
 ## Notebooks
 
