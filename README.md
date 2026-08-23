@@ -45,6 +45,12 @@ Each topic folder contains the notebooks used during live teaching sessions.
 
 Assignments are placed topic-wise inside the `assignments/` folder.
 
+| Assignment | Topic | Path |
+| --- | --- | --- |
+| 1 | Linear Regression | `assignments/01_linear_regression/` |
+| 2 | Logistic Regression | `assignments/02_logistic_regression/` |
+| 3 | K Nearest Neighbors | `assignments/03_k_nearest_neighbors/` |
+
 ## Setup
 
 Create a virtual environment and install the required packages:
