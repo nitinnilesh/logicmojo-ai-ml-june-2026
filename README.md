@@ -18,7 +18,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 03_logistic_regression/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 04_k_nearest_neighbors/
+│   ├── 04_k_nearest_neighbors/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 05_principal_component_analysis/
 │       ├── notes/
 │       └── notebooks/
 ├── assignments/
@@ -36,6 +39,7 @@ logicmojo-ai-ml-june-2026/
 | 4 | Logistic Regression | 16th Aug | `lecture_materials/03_logistic_regression/` |
 | 5 | Logistic Regression Imbalanced Data | 22nd Aug | `lecture_materials/03_logistic_regression/` |
 | 6 | K Nearest Neighbors | 23rd Aug | `lecture_materials/04_k_nearest_neighbors/` |
+| 7 | Principal Component Analysis | 29th Aug | `lecture_materials/05_principal_component_analysis/` |
 
 ## Notebooks
 
