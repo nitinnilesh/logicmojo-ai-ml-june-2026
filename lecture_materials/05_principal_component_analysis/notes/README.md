@@ -30,3 +30,21 @@ PDF notes from the live Principal Component Analysis class.
 
 - `../notebooks/07_principal_component_analysis_live.ipynb` - live class notebook for PCA fundamentals.
 - `../notebooks/08_eigenfaces_pca_live.ipynb` - live class notebook for Eigenfaces using PCA.
+
+## Eigenfaces PCA Dataset
+
+The Eigenfaces live notebook uses the Hollywood Celebrity Facial Recognition dataset.
+
+Download link: [https://drive.google.com/file/d/18KqTu1Lb5V0svBnnEI44Wk4eI4VT8bhM/view?usp=share_link](https://drive.google.com/file/d/18KqTu1Lb5V0svBnnEI44Wk4eI4VT8bhM/view?usp=share_link)
+
+Place the downloaded file at:
+
+```text
+logicmojo-ai-ml-june-2026/datasets/archive.zip
+```
+
+Then run:
+
+```text
+lecture_materials/05_principal_component_analysis/notebooks/08_eigenfaces_pca_live.ipynb
+```
