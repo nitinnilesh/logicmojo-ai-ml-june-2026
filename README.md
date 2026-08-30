@@ -40,6 +40,7 @@ logicmojo-ai-ml-june-2026/
 | 5 | Logistic Regression Imbalanced Data | 22nd Aug | `lecture_materials/03_logistic_regression/` |
 | 6 | K Nearest Neighbors | 23rd Aug | `lecture_materials/04_k_nearest_neighbors/` |
 | 7 | Principal Component Analysis | 29th Aug | `lecture_materials/05_principal_component_analysis/` |
+| 8 | Eigenfaces using PCA | 30th Aug | `lecture_materials/05_principal_component_analysis/` |
 
 ## Notebooks
 

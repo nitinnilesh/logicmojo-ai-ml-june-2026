@@ -25,3 +25,8 @@ PDF notes from the live Principal Component Analysis class.
 ## Files
 
 - `07_principal_component_analysis_live_notes.pdf` - live class notes for PCA.
+
+## Related Live Notebooks
+
+- `../notebooks/07_principal_component_analysis_live.ipynb` - live class notebook for PCA fundamentals.
+- `../notebooks/08_eigenfaces_pca_live.ipynb` - live class notebook for Eigenfaces using PCA.
