@@ -21,7 +21,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 04_k_nearest_neighbors/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 05_principal_component_analysis/
+│   ├── 05_principal_component_analysis/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 06_naive_bayes/
 │       ├── notes/
 │       └── notebooks/
 ├── assignments/
@@ -41,6 +44,7 @@ logicmojo-ai-ml-june-2026/
 | 6 | K Nearest Neighbors | 23rd Aug | `lecture_materials/04_k_nearest_neighbors/` |
 | 7 | Principal Component Analysis | 29th Aug | `lecture_materials/05_principal_component_analysis/` |
 | 8 | Eigenfaces using PCA | 30th Aug | `lecture_materials/05_principal_component_analysis/` |
+| 9 | Naive Bayes | 05th Sep | `lecture_materials/06_naive_bayes/` |
 
 ## Notebooks
 
