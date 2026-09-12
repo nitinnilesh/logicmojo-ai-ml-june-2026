@@ -27,7 +27,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 06_naive_bayes/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 07_support_vector_machine/
+│   ├── 07_support_vector_machine/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 08_decision_tree/
 │       ├── notes/
 │       └── notebooks/
 ├── assignments/
