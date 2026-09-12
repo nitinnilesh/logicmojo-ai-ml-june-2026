@@ -52,6 +52,7 @@ logicmojo-ai-ml-june-2026/
 | 8 | Eigenfaces using PCA | 30th Aug | `lecture_materials/05_principal_component_analysis/` |
 | 9 | Naive Bayes | 05th Sep | `lecture_materials/06_naive_bayes/` |
 | 10 | Support Vector Machine | 06th Sep | `lecture_materials/07_support_vector_machine/` |
+| 11 | Decision Tree | TBD | `lecture_materials/08_decision_tree/` |
 
 ## Notebooks
 
