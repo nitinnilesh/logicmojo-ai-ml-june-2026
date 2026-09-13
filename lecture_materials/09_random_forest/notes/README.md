@@ -12,8 +12,6 @@ PDF notes from the live Random Forest class.
 - Out-of-bag evaluation
 - Hyperparameters and practical tuning
 - Model interpretation and feature importance
-- Permutation importance and correlated features
-- SHAP intuition and local explanations
 - When to use Random Forest and its limitations
 
 ## Files
