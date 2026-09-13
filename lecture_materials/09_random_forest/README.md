@@ -9,4 +9,4 @@ Live teaching material for the Random Forest lecture.
 
 ## Notes
 
-This lecture builds Random Forest from intuition and code: bagging, bootstrap samples, feature randomness, classification voting, regression averaging, out-of-bag evaluation, tuning, interpretation, and SHAP.
+This lecture builds Random Forest from intuition and code: bagging, bootstrap samples, feature randomness, classification voting, regression averaging, out-of-bag evaluation, and tuning
