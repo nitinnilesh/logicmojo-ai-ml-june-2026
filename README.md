@@ -71,6 +71,7 @@ Assignments are placed topic-wise inside the `assignments/` folder.
 | 1 | Linear Regression | `assignments/01_linear_regression/` |
 | 2 | Logistic Regression | `assignments/02_logistic_regression/` |
 | 3 | K Nearest Neighbors | `assignments/03_k_nearest_neighbors/` |
+| 4 | Decision Trees and Random Forests | `assignments/04_decision_tree_random_forest/` |
 
 ## Setup
 
