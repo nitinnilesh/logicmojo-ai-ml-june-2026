@@ -33,7 +33,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 08_decision_tree/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 09_random_forest/
+│   ├── 09_random_forest/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 10_gradient_boosting/
 │       ├── notes/
 │       └── notebooks/
 ├── assignments/
@@ -57,6 +60,7 @@ logicmojo-ai-ml-june-2026/
 | 10 | Support Vector Machine | 06th Sep | `lecture_materials/07_support_vector_machine/` |
 | 11 | Decision Tree | 12th Sep | `lecture_materials/08_decision_tree/` |
 | 12 | Random Forest | 13th Sep | `lecture_materials/09_random_forest/` |
+| 13 | Gradient Boosting | 19th Sep | `lecture_materials/10_gradient_boosting/` |
 
 ## Notebooks
 
