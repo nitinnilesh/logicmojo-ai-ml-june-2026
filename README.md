@@ -36,9 +36,11 @@ logicmojo-ai-ml-june-2026/
 │   ├── 09_random_forest/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 10_gradient_boosting/
-│       ├── notes/
-│       └── notebooks/
+│   ├── 10_gradient_boosting/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 11_time_series_forecasting/
+│       └── notes/
 ├── assignments/
 ├── datasets/
 └── assets/
@@ -61,6 +63,8 @@ logicmojo-ai-ml-june-2026/
 | 11 | Decision Tree | 12th Sep | `lecture_materials/08_decision_tree/` |
 | 12 | Random Forest | 13th Sep | `lecture_materials/09_random_forest/` |
 | 13 | Gradient Boosting | 19th Sep | `lecture_materials/10_gradient_boosting/` |
+| 14 | Time Series Forecasting - Part 1 | 26th Sep | `lecture_materials/11_time_series_forecasting/` |
+| 15 | Time Series Forecasting - Part 2 | 03rd Oct | `lecture_materials/11_time_series_forecasting/` |
 
 ## Notebooks
 
