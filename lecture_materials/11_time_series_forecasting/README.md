@@ -1,10 +1,11 @@
 # Time Series Forecasting
 
-Live teaching notes for the Time Series Forecasting classes held on 26 September and 3 October 2026.
+Live teaching material for the Time Series Forecasting classes held on 26 September, 3 October, and 4 October 2026.
 
 ## Files
 
-- `notes/14_15_time_series_forecasting_live_notes.pdf` - combined PDF notes from both live classes.
+- `notebooks/14_15_16_time_series_forecasting_live.ipynb` - cumulative live coding notebook from all three classes.
+- `notes/14_15_16_time_series_forecasting_live_notes.pdf` - combined PDF notes from all three classes.
 
 ## Topics Covered
 
@@ -18,3 +19,7 @@ Live teaching notes for the Time Series Forecasting classes held on 26 September
 - AR, MA, ARIMA, and SARIMA intuition and model structure.
 - Time-aware validation, walk-forward evaluation, and leakage prevention.
 - Feature engineering, machine-learning workflows, monitoring, and retraining for forecasting systems.
+- ARIMA and SARIMA implementations with recursive forecasting.
+- Expanding-window time-series cross-validation using `TimeSeriesSplit`.
+- Hourly bike-demand forecasting with lag and rolling-window features.
+- Seasonal baseline comparison and gradient-boosting regression evaluation.

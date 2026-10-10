@@ -39,7 +39,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 10_gradient_boosting/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 11_time_series_forecasting/
+│   ├── 11_time_series_forecasting/
+│   │   ├── notes/
+│   │   └── notebooks/
+│   └── 12_ml_interview_preparation/
 │       └── notes/
 ├── assignments/
 ├── datasets/
@@ -65,6 +68,8 @@ logicmojo-ai-ml-june-2026/
 | 13 | Gradient Boosting | 19th Sep | `lecture_materials/10_gradient_boosting/` |
 | 14 | Time Series Forecasting - Part 1 | 26th Sep | `lecture_materials/11_time_series_forecasting/` |
 | 15 | Time Series Forecasting - Part 2 | 03rd Oct | `lecture_materials/11_time_series_forecasting/` |
+| 16 | Time Series Forecasting - Part 3 | 04th Oct | `lecture_materials/11_time_series_forecasting/` |
+| 17 | ML/DS Interview Preparation | 10th Oct | `lecture_materials/12_ml_interview_preparation/` |
 
 ## Notebooks
 
