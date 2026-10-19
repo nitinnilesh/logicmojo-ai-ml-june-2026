@@ -7,12 +7,12 @@ Live teaching materials from the Neural Networks series taught on 11, 17, and 18
 ### Lecture 18 - Part 1 Theory - 11 October 2026
 
 - `notes/18_neural_networks_part_1_live_notes.pdf`
+- Combined Part 1 notes, including the continuation used during the coding class.
 - Neural-network architecture, weights, biases, tensor shapes, forward propagation, activation functions, binary cross-entropy, backpropagation, and gradient descent.
 
 ### Lecture 19 - Part 1 Coding - 17 October 2026
 
 - `notebooks/19_neural_networks_part_1_coding_live.ipynb`
-- `notes/19_neural_networks_part_1_coding_live_notes.pdf`
 - A one-hidden-layer neural network implemented from scratch using NumPy: forward propagation, loss, backpropagation, parameter updates, training, prediction, and comparison with `MLPClassifier`.
 
 ### Lecture 20 - Part 2 - 18 October 2026
