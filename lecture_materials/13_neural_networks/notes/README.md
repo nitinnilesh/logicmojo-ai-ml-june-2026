@@ -1,9 +1,11 @@
 # Neural Networks Notes
 
-Handwritten PDF notes from Neural Networks Part 1, taught on 11 October 2026.
+PDF notes from the Neural Networks classes taught in October 2026.
 
-## File
+## Files
 
-- `18_neural_networks_part_1_live_notes.pdf` - theory notes covering neural-network architecture, forward propagation, activation functions, binary cross-entropy, backpropagation, and gradient descent.
+- `18_neural_networks_part_1_live_notes.pdf` - Part 1 theory, taught on 11 October 2026.
+- `19_neural_networks_part_1_coding_live_notes.pdf` - Part 1 coding continuation, taught on 17 October 2026.
+- `20_neural_networks_part_2_live_notes.pdf` - Part 2 theory and coding, taught on 18 October 2026.
 
-The coding portion is planned for the next class.
+These notes cover neural-network architecture, activations, forward and backward propagation, gradient descent, multiclass outputs, training challenges, initialization, and the MNIST application.

@@ -45,7 +45,8 @@ logicmojo-ai-ml-june-2026/
 │   ├── 12_ml_interview_preparation/
 │   │   └── notes/
 │   └── 13_neural_networks/
-│       └── notes/
+│       ├── notes/
+│       └── notebooks/
 ├── assignments/
 ├── datasets/
 └── assets/
@@ -73,6 +74,8 @@ logicmojo-ai-ml-june-2026/
 | 16 | Time Series Forecasting - Part 3 | 04th Oct | `lecture_materials/11_time_series_forecasting/` |
 | 17 | ML/DS Interview Preparation | 10th Oct | `lecture_materials/12_ml_interview_preparation/` |
 | 18 | Neural Networks - Part 1 (Theory) | 11th Oct | `lecture_materials/13_neural_networks/` |
+| 19 | Neural Networks - Part 1 (Coding) | 17th Oct | `lecture_materials/13_neural_networks/` |
+| 20 | Neural Networks - Part 2 | 18th Oct | `lecture_materials/13_neural_networks/` |
 
 ## Notebooks
 
