@@ -78,6 +78,8 @@ logicmojo-ai-ml-june-2026/
 | 18 | Neural Networks - Part 1 (Theory) | 11th Oct | `lecture_materials/13_neural_networks/` |
 | 19 | Neural Networks - Part 1 (Coding) | 17th Oct | `lecture_materials/13_neural_networks/` |
 | 20 | Neural Networks - Part 2 | 18th Oct | `lecture_materials/13_neural_networks/` |
+| 21 | Neural Networks - Architecture and Optimizers | 24th Oct | `lecture_materials/13_neural_networks/` |
+| 22 | PyTorch Fundamentals | 25th Oct | `lecture_materials/14_pytorch_fundamentals/` |
 
 ## Notebooks
 

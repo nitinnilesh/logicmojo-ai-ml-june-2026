@@ -1,6 +1,6 @@
 # PyTorch Fundamentals
 
-Participant-facing material for the PyTorch fundamentals class.
+Participant-facing and completed live material from the PyTorch fundamentals class taught on 25 October 2026.
 
 ## Follow-Along Notebook
 
@@ -20,3 +20,10 @@ Participant-facing material for the PyTorch fundamentals class.
 4. Complete each TODO during the live class.
 
 A GPU is optional for this notebook. The Fashion-MNIST MLP can also run on CPU.
+
+## Completed Live Notebook
+
+- `notebooks/22_pytorch_fundamentals_live.ipynb`
+- The notebook completed during Lecture 22 on 25 October 2026.
+- Covers tensors, shapes, devices, matrix multiplication, autograd, `nn.Module`, cross-entropy loss, Fashion-MNIST DataLoaders, parameter updates, and reusable training and evaluation loops.
+- Also includes learning curves, confident-mistake analysis, and saving and reloading model parameters.

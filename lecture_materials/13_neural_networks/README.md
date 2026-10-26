@@ -1,6 +1,6 @@
 # Neural Networks
 
-Live teaching materials from the Neural Networks series taught on 11, 17, and 18 October 2026.
+Live teaching materials from the Neural Networks series taught on 11, 17, 18, and 24 October 2026.
 
 ## Lecture Materials
 
@@ -21,6 +21,12 @@ Live teaching materials from the Neural Networks series taught on 11, 17, and 18
 - `notes/20_neural_networks_part_2_live_notes.pdf`
 - Deeper MLPs, multiclass outputs, logits, softmax, cross-entropy, gradient-flow challenges, weight initialization, and the beginning of an MNIST classification workflow.
 
+### Lecture 21 - Architecture and Optimizers - 24 October 2026
+
+- `notebooks/21_neural_network_architecture_and_optimizers_live.ipynb`
+- An end-to-end MNIST architecture experiment using `MLPClassifier`, including parameter counting, architecture comparison, final-model training, and inspection of confident mistakes.
+- Spelled-out optimizer experiments on a two-dimensional loss surface covering SGD, momentum, and Adam.
+
 ## Topics Covered
 
 - Combining neurons into hidden layers and reading network architecture.
@@ -31,3 +37,6 @@ Live teaching materials from the Neural Networks series taught on 11, 17, and 18
 - Vanishing and exploding gradients, saturation, and dead ReLU units.
 - Zero, small, large, Xavier, and He initialization.
 - Using scikit-learn's `MLPClassifier` and working with MNIST.
+- Choosing hidden-layer architectures through controlled experiments.
+- Comparing SGD, momentum, and Adam optimization trajectories.
+- Evaluating a final MNIST model and studying its mistakes.
