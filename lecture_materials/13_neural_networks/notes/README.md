@@ -6,5 +6,6 @@ PDF notes from the Neural Networks classes taught in October 2026.
 
 - `18_neural_networks_part_1_live_notes.pdf` - Combined Part 1 notes from the 11 October theory class and its 17 October coding continuation.
 - `20_neural_networks_part_2_live_notes.pdf` - Part 2 theory and coding, taught on 18 October 2026.
+- `21_neural_networks_part_3_live_notes.pdf` - Part 3 notes on neural-network architecture and optimizers, taught on 24 October 2026.
 
-These notes cover neural-network architecture, activations, forward and backward propagation, gradient descent, multiclass outputs, training challenges, initialization, and the MNIST application.
+These notes cover neural-network architecture, activations, forward and backward propagation, gradient descent, multiclass outputs, training challenges, initialization, optimizer intuition, and the MNIST application.

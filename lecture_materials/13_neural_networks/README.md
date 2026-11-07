@@ -24,6 +24,7 @@ Live teaching materials from the Neural Networks series taught on 11, 17, 18, an
 ### Lecture 21 - Architecture and Optimizers - 24 October 2026
 
 - `notebooks/21_neural_network_architecture_and_optimizers_live.ipynb`
+- `notes/21_neural_networks_part_3_live_notes.pdf`
 - An end-to-end MNIST architecture experiment using `MLPClassifier`, including parameter counting, architecture comparison, final-model training, and inspection of confident mistakes.
 - Spelled-out optimizer experiments on a two-dimensional loss surface covering SGD, momentum, and Adam.
 
