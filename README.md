@@ -47,7 +47,10 @@ logicmojo-ai-ml-june-2026/
 │   ├── 13_neural_networks/
 │   │   ├── notes/
 │   │   └── notebooks/
-│   └── 14_pytorch_fundamentals/
+│   ├── 14_pytorch_fundamentals/
+│   │   └── notebooks/
+│   └── 15_convolutional_neural_networks/
+│       ├── notes/
 │       └── notebooks/
 ├── assignments/
 ├── datasets/
@@ -80,6 +83,8 @@ logicmojo-ai-ml-june-2026/
 | 20 | Neural Networks - Part 2 | 18th Oct | `lecture_materials/13_neural_networks/` |
 | 21 | Neural Networks - Architecture and Optimizers | 24th Oct | `lecture_materials/13_neural_networks/` |
 | 22 | PyTorch Fundamentals | 25th Oct | `lecture_materials/14_pytorch_fundamentals/` |
+| 23 | Convolutional Neural Networks - Theory | 31st Oct | `lecture_materials/15_convolutional_neural_networks/` |
+| 24 | Convolutional Neural Networks - Coding | 01st Nov | `lecture_materials/15_convolutional_neural_networks/` |
 
 ## Notebooks
 
