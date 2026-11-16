@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-Live teaching materials from the CNN theory and coding classes taught on 31 October and 1 November 2026.
+Live teaching materials from the CNN classes taught on 31 October, 1 November, 14 November, and 15 November 2026.
 
 ## Lecture Materials
 
@@ -17,19 +17,33 @@ Live teaching materials from the CNN theory and coding classes taught on 31 Octo
 - Applies Sobel, blur, and sharpening kernels, then trains a convolutional layer to learn a Sobel-style feature detector.
 - Builds and trains a small PyTorch CNN on CIFAR-10 and inspects its learning curves, confusion matrix, and confident mistakes.
 
+### Lecture 25 - CNN Training and Generalization - 14 November 2026
+
+- `notebooks/25_cnn_training_and_generalization_live.ipynb`
+- Establishes a small CIFAR-10 CNN as a baseline and verifies the initial multiclass loss.
+- Adds normalization, data augmentation, Batch Normalization, dropout, a learning-rate scheduler, early stopping, and best-checkpoint restoration.
+- Compares baseline and improved training through loss, accuracy, and learning-rate curves.
+
+### Lecture 26 - Modern CNN Architectures (Theory) - 15 November 2026
+
+- `notes/26_modern_cnn_architectures_theory_live_notes.pdf`
+- Connects early CNNs to the design ideas behind modern architectures.
+- Covers ImageNet context, influential architecture families, residual learning, efficient building blocks, $1\times1$ convolution, and depthwise separable convolution.
+
+> **Coverage status:** Transfer learning was not covered in Lecture 26. It will be added after it is taught in a future class.
+
 ## Topics Covered
 
 - Images as structured tensors and why flattening loses spatial relationships.
 - Cross-correlation and convolution calculated with sliding local windows.
 - Hand-designed Sobel, blur, and sharpening filters.
 - Learning convolutional filters through backpropagation.
-- Padding, stride, channels, feature maps, and parameter counts.
-- Max pooling and spatial downsampling.
-- Building a compact CNN using `nn.Conv2d`, ReLU, pooling, flattening, and a linear classifier.
-- Train, validation, and test workflows for image classification.
-- CIFAR-10 evaluation using accuracy and a confusion matrix.
-- Error analysis through confidently misclassified images.
+- Padding, stride, channels, feature maps, pooling, receptive fields, and parameter counts.
+- Building and evaluating a compact PyTorch CNN on CIFAR-10.
+- Improving CNN training with normalization, augmentation, Batch Normalization, dropout, scheduling, early stopping, and checkpointing.
+- ImageNet and the progression of influential CNN architectures.
+- Residual learning and efficient CNN operations, including $1\times1$ and depthwise separable convolutions.
 
 ## Dataset Note
 
-The coding notebook expects the CIFAR-10 dataset in the runtime environment. Follow its dataset setup cells before creating the PyTorch data loaders.
+The coding notebooks use CIFAR-10. Follow their dataset setup cells before creating the PyTorch data loaders; the newer training notebook can obtain CIFAR-10 through the Hugging Face `datasets` library.

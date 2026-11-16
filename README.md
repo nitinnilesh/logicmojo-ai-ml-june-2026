@@ -85,6 +85,8 @@ logicmojo-ai-ml-june-2026/
 | 22 | PyTorch Fundamentals | 25th Oct | `lecture_materials/14_pytorch_fundamentals/` |
 | 23 | Convolutional Neural Networks - Theory | 31st Oct | `lecture_materials/15_convolutional_neural_networks/` |
 | 24 | Convolutional Neural Networks - Coding | 01st Nov | `lecture_materials/15_convolutional_neural_networks/` |
+| 25 | CNN Training and Generalization | 14th Nov | `lecture_materials/15_convolutional_neural_networks/` |
+| 26 | Modern CNN Architectures - Theory | 15th Nov | `lecture_materials/15_convolutional_neural_networks/` |
 
 ## Notebooks
 
