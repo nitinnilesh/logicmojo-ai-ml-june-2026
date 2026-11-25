@@ -11,3 +11,9 @@ datasets/*.xlsx
 datasets/*.parquet
 *.pkl
 *.joblib
+
+# Keep hackathon answers and private scoring material out of the public repo.
+**/hidden_test_labels.csv
+hackathons/**/instructor/
+hackathons/**/leaderboard/
+hackathons/**/submissions/

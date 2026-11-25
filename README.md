@@ -53,6 +53,8 @@ logicmojo-ai-ml-june-2026/
 │       ├── notes/
 │       └── notebooks/
 ├── assignments/
+├── hackathons/
+│   └── 01_purchase_intent_prediction/
 ├── datasets/
 └── assets/
 ```
@@ -87,6 +89,7 @@ logicmojo-ai-ml-june-2026/
 | 24 | Convolutional Neural Networks - Coding | 01st Nov | `lecture_materials/15_convolutional_neural_networks/` |
 | 25 | CNN Training and Generalization | 14th Nov | `lecture_materials/15_convolutional_neural_networks/` |
 | 26 | Modern CNN Architectures - Theory | 15th Nov | `lecture_materials/15_convolutional_neural_networks/` |
+| 27 | Transfer Learning and Grad-CAM | 21st Nov | `lecture_materials/15_convolutional_neural_networks/` |
 
 ## Notebooks
 
@@ -103,6 +106,14 @@ Assignments are placed topic-wise inside the `assignments/` folder.
 | 3 | K Nearest Neighbors | `assignments/03_k_nearest_neighbors/` |
 | 4 | Decision Trees and Random Forests | `assignments/04_decision_tree_random_forest/` |
 | 5 | PyTorch Fundamentals | `assignments/05_pytorch_fundamentals/` |
+
+## Hackathons
+
+| Hackathon | Problem | Path |
+| --- | --- | --- |
+| 1 | Purchase Intent Prediction | `hackathons/01_purchase_intent_prediction/` |
+
+Hackathon folders contain the participant notebook, visible training and test features, rules, metric guidance, presentation guidance, and the required submission format. Hidden labels and instructor scoring materials are kept private.
 
 ## Setup
 

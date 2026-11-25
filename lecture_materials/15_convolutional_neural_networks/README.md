@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-Live teaching materials from the CNN classes taught on 31 October, 1 November, 14 November, and 15 November 2026.
+Live teaching materials from the CNN classes taught on 31 October, 1 November, 14 November, 15 November, and 21 November 2026.
 
 ## Lecture Materials
 
@@ -30,7 +30,12 @@ Live teaching materials from the CNN classes taught on 31 October, 1 November, 1
 - Connects early CNNs to the design ideas behind modern architectures.
 - Covers ImageNet context, influential architecture families, residual learning, efficient building blocks, $1\times1$ convolution, and depthwise separable convolution.
 
-> **Coverage status:** Transfer learning was not covered in Lecture 26. It will be added after it is taught in a future class.
+### Lecture 27 - Transfer Learning and Grad-CAM - 21 November 2026
+
+- `notebooks/27_transfer_learning_live.ipynb`
+- `notes/27_transfer_learning_live_notes.pdf`
+- Uses an ImageNet-pretrained ResNet for Oxford-IIIT Pet breed classification.
+- Covers classifier-head replacement, freezing pretrained features, partial fine-tuning, differential learning rates, evaluation, and Grad-CAM interpretation.
 
 ## Topics Covered
 
@@ -43,7 +48,9 @@ Live teaching materials from the CNN classes taught on 31 October, 1 November, 1
 - Improving CNN training with normalization, augmentation, Batch Normalization, dropout, scheduling, early stopping, and checkpointing.
 - ImageNet and the progression of influential CNN architectures.
 - Residual learning and efficient CNN operations, including $1\times1$ and depthwise separable convolutions.
+- Transfer learning with pretrained CNNs, frozen backbones, classifier-head training, and careful fine-tuning.
+- Interpreting convolutional model evidence using Grad-CAM.
 
 ## Dataset Note
 
-The coding notebooks use CIFAR-10. Follow their dataset setup cells before creating the PyTorch data loaders; the newer training notebook can obtain CIFAR-10 through the Hugging Face `datasets` library.
+The CNN coding notebooks use CIFAR-10. Follow their dataset setup cells before creating the PyTorch data loaders; the newer training notebook can obtain CIFAR-10 through the Hugging Face `datasets` library. The transfer-learning notebook uses Oxford-IIIT Pet and follows its own dataset setup cells.
